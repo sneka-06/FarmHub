@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883542167986",
+    "project_id": "farm-hub-64993",
+    "storage_bucket": "farm-hub-64993.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883542167986:android:7b8dd89d6fe7834f82d4ab",
+        "android_client_info": {
+          "package_name": "com.example.farm_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7e6vYGcZ4uRt8zsgC2E9U8LiBgGkf4SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
