@@ -24,15 +24,11 @@ FarmHub is a Flutter-based cross-platform mobile application designed to elimina
 
 ### 🧑‍🌾 Farmer Side Screens
 
-| Dashboard | Inventory | Add Product | Profile |
-|-----------|-----------|-------------|---------|
-| ![Farmer Dashboard](screenshots/farmer_dashboard.png) | ![Inventory](screenshots/inventory.png) | ![Add Product](screenshots/add_product.png) | ![Farmer Profile](screenshots/farmer_profile.png) |
+| Dashboard | Inventory | Add Product | Profile | Payment Details |
+|-----------|-----------|-------------|---------|-----------------|
+| ![Farmer Dashboard](screenshots/farmer_dashboard.png) | ![Inventory](screenshots/inventory.png) | ![Add Product](screenshots/add_product.png) | ![Farmer Profile](screenshots/farmer_profile.png) | ![Payment Details](screenshots/payment_details.png) |
 
-| Payment Details |
-|-----------------|
-| ![Payment Details](screenshots/payment_details.png) |
 
----
 
 ### 🛒 Consumer Side Screens
 
